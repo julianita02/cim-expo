@@ -325,3 +325,4 @@ Tipos de magnetómetros más comunes basados en diferentes principios físicos. 
 
 
 
+
