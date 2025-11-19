@@ -273,7 +273,7 @@ Las imágenes muestran:
 
 Ya estaban incluidas, pero debes enfatizar:
 
-- Ley de Beer–Lambert  
+ Ley de Beer–Lambert  
 - Relación entre R, T y A  
 - Efectos de dispersión (Rayleigh)  
 - Ecuaciones presentes en tus diapositivas
